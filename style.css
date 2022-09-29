@@ -1,0 +1,46 @@
+body {
+    background-color: yellowgreen;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#minhafoto {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    color: royalblue;
+    font-size: 50px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+.who {
+    background-color: grey;
+    text-align: center;
+}
+
+.abilities {
+    background-color: grey;
+    text-align: center;
+    list-style: none;
+}
+
+.anime {
+    background-color: grey;
+    text-align: center;
+}
+
+#links {
+    background-color: grey;
+    text-align: center;
+    text-decoration: solid;
+    list-style: none;
+}
+
